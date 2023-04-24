@@ -4,8 +4,7 @@ import Header from "./Header";
 function App() {
   return (
     <div>
-      <Header/>
-      {/* <h1>Hello</h1> */}
+      <h1>Hello App!</h1>
     </div>
   );
 }
